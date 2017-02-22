@@ -1,9 +1,8 @@
 # check-combo-url
 
-![](https://img.alicdn.com/tps/TB1OkawPFXXXXbTapXXXXXXXXXX-1221-349.png)
+> check 404 requests in a combo url
 
-## Description
-用来检测 comboURL 中失效的文件
+![](https://img.alicdn.com/tps/TB1OkawPFXXXXbTapXXXXXXXXXX-1221-349.png)
 
 ## Use
 
